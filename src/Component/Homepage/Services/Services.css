@@ -1,0 +1,28 @@
+.service p{
+    color:#848485;
+    font-family: sans-serif;
+    
+    
+}
+.service h1,h3{
+    color:#278e7d;
+}
+ /* h1 i{
+    padding: 50px !important;
+    margin: 5px;;
+} */
+.border-white{
+    border:1px solid white;
+    box-shadow:2px 2px 2px yellow;
+    color:#278e7d;
+    font-size: 60px;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.bg-gray{
+  background: #28313a;
+  
+}
+.bg-dark{
+ background: #1c252a;
+}

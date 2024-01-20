@@ -1,0 +1,52 @@
+.bg-pink {
+    background: rgb(160, 89, 148);
+}
+.bg-blue{
+    background: rgb(69, 69, 166);
+}
+.bg-gray{
+    background: rgb(238, 231, 231);
+}
+.bg-green{
+background: rgb(212, 235, 212);
+}
+.text-blue{
+    color:blue;
+}
+.text-pink{
+    color: rgb(143, 50, 103);
+}
+.text-green{
+    color:rgb(18, 68, 18);
+}
+.text-red{
+    color: rgb(236, 50, 50);
+}
+.text-darkblue{
+    color: rgb(27, 27, 83);
+}
+.text-shadow{
+    text-shadow: 1px 1px 3px rgb(22, 78, 48);
+}
+
+.hover:hover{
+color:rgb(185, 15, 247);
+transition: all 2s;
+font-size: 18px;
+font-weight: bold; 
+}
+.title:hover{
+    transition: all 2s;
+    font-size: 30px !important;
+}
+.lg:hover{
+    transition: 2s;
+    color:rgb(248, 19, 92);
+}
+.bg:hover{
+    transition: 2s;
+    background:peachpuff ;
+}
+.fs-1{
+    font-size: 60px !important;
+}

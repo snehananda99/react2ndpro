@@ -1,0 +1,12 @@
+.fs-10{
+    font-size: 37px !important;
+    padding-top: 7px;
+}
+.bg-yellow{
+    background: rgb(242, 246, 235);
+}
+.hover:hover{
+    transition: 2s;
+    width: 460px;
+    background: linear-gradient(rgba(yellow,green,rgb(27, 179, 138),0.0),rgba(red,green,blue,0.0));
+}
